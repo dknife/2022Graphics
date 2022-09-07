@@ -7,4 +7,14 @@
 
 ## 강의 
 
-##### 강의 0: 수업 오리엔테이션 / 그래픽스 소개  [강의 자료](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
+##### 강의 0: 수업 오리엔테이션 
+
+강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
+
+##### 강의 1: 그래픽스 소개
+
+그래픽스 소개
+
+[강의노트 01 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
+
+[강의 자료](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
