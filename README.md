@@ -6,7 +6,7 @@
 
 ## 교수 연락처
 
-ymkang___@___tu.ac.kr / young.min.kang___@___gmail.com
+``` ymkang___@___tu.ac.kr / young.min.kang___@___gmail.com ```
 
 ## 강의 
 
