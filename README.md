@@ -4,7 +4,9 @@
 #### 이 저장소는 2022년 동명대학교 게임공학과 그래픽스 프로그래밍 수업을 위한 저장소입니다.
 #### 이 저장소의 코드는 Visual Studio Code + Python 3 + PyOpenGL + PyQt5 로 테스트되었습니다.
 
-## 교수 연락처: ymkang___@___tu.ac.kr / young.min.kang___@___gmail.com
+## 교수 연락처
+
+ymkang___@___tu.ac.kr / young.min.kang___@___gmail.com
 
 ## 강의 
 
