@@ -45,4 +45,4 @@
 
 [02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_02_pythonfunctions)
 
-[03 PyQt6를 이용한 윈도 생성]()
+[03 PyQt6를 이용한 윈도 생성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_PyQtStart)
