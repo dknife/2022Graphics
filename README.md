@@ -30,7 +30,7 @@
 [강의자료 01 - 그래픽스 소개](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
 
 
-##### 강의 1: OpenGL 소개와 구현 환경 구축
+##### 강의 2: OpenGL 소개와 구현 환경 구축
 
 1. Visual Studio Code를 이용한 파이썬 프로그래밍 환경 구축
 
