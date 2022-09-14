@@ -42,3 +42,5 @@
 ###### 실습 
 
 [01 파이썬 기본 코딩 연습](https://github.com/dknife/2022Graphics/blob/main/Codes/Lec01_01_Test.py)
+
+[02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/tree/main/Codes/Lec01_02_functions.py)
