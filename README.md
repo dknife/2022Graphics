@@ -39,4 +39,4 @@
 
 [강의노트 02 - OpenGL 구현 환경 구축](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/02_OpenGL%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%EA%B5%AC%ED%98%84%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.pdf)
 
-[01 파이썬 기본 코딩 연습]()
+[01 파이썬 기본 코딩 연습](https://github.com/dknife/2022Graphics/blob/main/Codes/Lec01_01_Test.py)
