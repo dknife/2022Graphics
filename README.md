@@ -37,4 +37,4 @@
 2. Qt를 이용한 윈도우 생성 및 GUI 환경 만들기 + OpenGL 위짓 연동
 
 
-[강의노트 02 - OpenGL 구현 환경 구축]()
+[강의노트 02 - OpenGL 구현 환경 구축](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/02_OpenGL%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%EA%B5%AC%ED%98%84%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.pdf)
