@@ -28,3 +28,13 @@
 [강의노트 01 - 그래픽스 소개](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf)
 
 [강의자료 01 - 그래픽스 소개](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
+
+
+##### 강의 1: OpenGL 소개와 구현 환경 구축
+
+1. Visual Studio Code를 이용한 파이썬 프로그래밍 환경 구축
+
+2. Qt를 이용한 윈도우 생성 및 GUI 환경 만들기 + OpenGL 위짓 연동
+
+
+[강의노트 02 - OpenGL 구현 환경 구축]()
