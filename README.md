@@ -43,4 +43,4 @@
 
 [01 파이썬 기본 코딩 연습](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_01_pythontest)
 
-[02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/tree/main/Codes/Lec01_02_functions.py)
+[02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_02_pythonfunctions)
