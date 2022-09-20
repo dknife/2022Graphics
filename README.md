@@ -30,19 +30,27 @@
 [강의자료 01 - 그래픽스 소개](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
 
 
-##### 강의 2: OpenGL 소개와 구현 환경 구축
+##### 강의 2-1: OpenGL 소개와 구현 환경 구축 
 
 1. Visual Studio Code를 이용한 파이썬 프로그래밍 환경 구축
 
 2. Qt를 이용한 윈도우 생성 및 GUI 환경 만들기 + OpenGL 위짓 연동
 
-
 [강의노트 02 - OpenGL 구현 환경 구축](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/02_OpenGL%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%EA%B5%AC%ED%98%84%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.pdf)
 
-###### 실습 
 
-[01 파이썬 기본 코딩 연습](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_01_pythontest)
+###### 실습 A
 
-[02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_02_pythonfunctions)
+[A-01 파이썬 기본 코딩 연습](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_01_pythontest)
 
-[03 PyQt6를 이용한 윈도 생성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_PyQtStart)
+[A-02 파이썬 함수 이해하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_02_pythonfunctions)
+
+[A-03 PyQt6를 이용한 윈도 생성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_PyQtStart)
+
+###### 실습 B
+
+[B-01 윈도에 위짓 설치](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_Widges)
+
+[B-02 OpenGL 그리기 위짓](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_04_OpenGLWidget)
+
+[B-03 OpenGL 사용하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_04_DrawingWOpenGL)
