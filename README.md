@@ -22,11 +22,11 @@
 
 ## 강의 
 
-##### 강의 0: 수업 오리엔테이션 
+### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
 
-##### 강의 1: 그래픽스 소개
+### 강의 1: 그래픽스 소개
 
 그래픽스 소개
 
@@ -64,6 +64,6 @@
 
 [B-04 Qt로 OpenGL 제어](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_05_DrawingWOpenGL)
 
-#### 강의 3: 프리미티브
+### 강의 3: 프리미티브
 
 [강의노트 03 - 프리미티브 이해](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/03_Primitives.pdf)
