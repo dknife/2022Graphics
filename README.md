@@ -22,6 +22,13 @@
 
 ## 강의 
 
+### 강의자료 모음
+[강의자료 01 - 그래픽스 소개](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/01_%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C.pdf) 
+
+[강의자료 02 - OpenGL 구현 환경 구축](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/02_OpenGL%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%EA%B5%AC%ED%98%84%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.pdf)
+
+[강의자료 03 - 프리미티브 이해](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/03_Primitives.pdf)
+
 ### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
