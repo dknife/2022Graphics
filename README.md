@@ -51,6 +51,8 @@
 
 [B-01 윈도에 위짓 설치](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_Widgets)
 
+[B-01 개선 - main 함수에서 실행](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_03_Widgets2)
+
 [B-02 OpenGL 그리기 위짓](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_04_OpenGLWidget)
 
 [B-03 OpenGL 사용하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_04_DrawingWOpenGL)
