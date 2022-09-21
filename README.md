@@ -56,3 +56,5 @@
 [B-03 OpenGL 사용하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec02_04_DrawingWOpenGL)
 
 #### 강의 3: 
+
+[강의노트 03 - 프리미티브 이해](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/03_Primitives.pdf)
