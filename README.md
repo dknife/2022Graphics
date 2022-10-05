@@ -77,4 +77,5 @@
 
 [1 기본적인 윈도 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_01_basicWidgets)
 
+[2 제어부와 입력부 구성하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_02_TwoParts)
 
