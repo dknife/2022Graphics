@@ -74,3 +74,7 @@
 ### 강의 3: 프리미티브
 
 [강의노트 03 - 프리미티브 이해](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/03_Primitives.pdf)
+
+[1 기본적인 윈도 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_01_basicWidgets)
+
+
