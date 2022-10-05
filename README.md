@@ -79,3 +79,5 @@
 
 [2 제어부와 입력부 구성하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_02_TwoParts)
 
+[3 마우스를 이용한 정점 입력과 정점 모두 지우기 버튼 달기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_03_QtMouseInput)
+
