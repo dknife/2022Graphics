@@ -81,3 +81,4 @@
 
 [3 마우스를 이용한 정점 입력과 정점 모두 지우기 버튼 달기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_03_QtMouseInput)
 
+[4 OpenGL 위짓 부착, 프리미티브 선택을 위한 콤보 박스 부착](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_04_PrimitiveSelection)
