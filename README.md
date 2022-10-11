@@ -84,3 +84,9 @@
 [4 OpenGL 위짓 부착, 프리미티브 선택을 위한 콤보 박스 부착](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_04_PrimitiveSelection)
 
 [5 OpenGL OpenGL Primitive 확인](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_05_PrimitiveFinal)
+
+### 강의 4: 카메라와 투영
+
+[강의노트 04 - 카메라 모델과 투영](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/)
+
+[1 ]()
