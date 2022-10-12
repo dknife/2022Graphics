@@ -104,3 +104,5 @@
 [proj A-3 관측용 OpenGL Widget 동작 구현](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A03_Observation)
 
 [proj A-4 관측용 OpenGL Widget으로 관측 공간 관찰](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A04_Observation)
+
+[proj A-5 관측용 OpenGL Widget으로 관측 공간 관찰 완성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A05_Observation)
