@@ -92,3 +92,5 @@
 [1 기본적인 OpenGL](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_01_CameraBasic)
 
 [2 glOrtho로 투영 변경](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_02_glOrtho)
+
+[3 왜곡없은 화면 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_03_glOrtho)
