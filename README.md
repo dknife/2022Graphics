@@ -94,3 +94,8 @@
 [2 glOrtho로 투영 변경](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_02_glOrtho)
 
 [3 왜곡 없는 화면 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_03_glOrtho)
+
+#### glOrtho의 관측 공간 관찰하기
+
+[proj A-1 두 개의 OpenGL Widget](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A01_TwoGLs)
+
