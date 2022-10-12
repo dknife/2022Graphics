@@ -99,3 +99,4 @@
 
 [proj A-1 두 개의 OpenGL Widget](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A01_TwoGLs)
 
+[proj A-2 두 개의 OpenGL Widget에 축과 나선형 도형 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A02_TwoGLs)
