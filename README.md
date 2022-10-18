@@ -29,6 +29,10 @@
 
 [강의자료 03 - 프리미티브 이해](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/03_Primitives.pdf)
 
+[강의자료 04 - 카메라 모델과 투영](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/04_%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20%ED%88%AC%EC%98%81.pdf)
+
+[강의자료 부록 1 - 넘파이](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/A01_%EB%84%98%ED%8C%8C%EC%9D%B4.pdf) 
+
 ### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
