@@ -87,7 +87,7 @@
 
 ### 강의 4: 카메라와 투영
 
-[강의노트 04 - 카메라 모델과 투영](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/04_%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20%ED%88%AC%EC%98%81.pdf) 10월 18일 
+[강의노트 04 - 카메라 모델과 투영](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/04_%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20%ED%88%AC%EC%98%81.pdf) 10월 18일 갱신
 
 [1 기본적인 OpenGL](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_01_CameraBasic)
 
