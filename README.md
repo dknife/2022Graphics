@@ -89,7 +89,7 @@
 
 [5 OpenGL OpenGL Primitive 확인](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec03_05_PrimitiveFinal)
 
-### 강의 4: 카메라와 투영
+### 강의 4-1: 카메라와 투영
 
 [강의노트 04 - 카메라 모델과 투영](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/04_%EC%B9%B4%EB%A9%94%EB%9D%BC%EC%99%80%20%ED%88%AC%EC%98%81.pdf) 10월 18일 갱신
 
@@ -112,3 +112,5 @@
 [proj A-4 관측용 OpenGL Widget으로 관측 공간 관찰](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A04_Observation)
 
 [proj A-5 관측용 OpenGL Widget으로 관측 공간 관찰 완성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A05_Observation)
+
+### 강의 4-2: 원근 투영
