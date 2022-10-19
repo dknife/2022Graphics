@@ -114,3 +114,5 @@
 [proj A-5 관측용 OpenGL Widget으로 관측 공간 관찰 완성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04_A05_Observation)
 
 ### 강의 4-2: 원근 투영
+
+[1 glFrustum](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_01_glFrustum)
