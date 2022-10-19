@@ -118,3 +118,5 @@
 [1 glFrustum](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_01_glFrustum)
 
 [2 glFrustum 관찰 개선](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_01_glFrustum2)
+
+[3 FPS 스타일의 카메라 제어를 위한 공간 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_02_)
