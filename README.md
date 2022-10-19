@@ -121,4 +121,6 @@
 
 [3 FPS 스타일의 카메라 제어를 위한 공간 만들기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_02_)
 
-[3 FPS 스타일의 카메라 제어 기초: w로 전진](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_03)
+[4 FPS 스타일의 카메라 제어 기초: w로 전진](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_03)
+
+[5 FPS 스타일의 카메라 제어 기초 완성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_04)
