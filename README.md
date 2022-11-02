@@ -136,3 +136,5 @@
 [2 디스플레이 리스트로 속도 개선](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec05_02)
 
 [3 디스플레이 리스트와 느린 그리기의 속도 비교](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec05_03)
+
+[4 디스플레이 리스트와 glDrawArrays 비교](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec05_04)
