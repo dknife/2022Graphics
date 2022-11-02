@@ -126,3 +126,8 @@
 [4 FPS 스타일의 카메라 제어 기초: w로 전진](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_03)
 
 [5 FPS 스타일의 카메라 제어 기초 완성](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec04B_04)
+
+### 강의 5: 그리기 속도 개선 - 디스플레이 리스트 / 정점 배열
+
+[강의자료 05 - 그리기 속도 개선](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/05_%EA%B7%B8%EB%A6%AC%EA%B8%B0%EC%9D%98%20%EC%86%8D%EB%8F%84%EB%A5%BC%20%EB%86%92%EC%9D%B4%EB%8A%94%20%EB%8F%84%EA%B5%AC.pdf)
+
