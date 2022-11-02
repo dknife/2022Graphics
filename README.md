@@ -33,6 +33,8 @@
 
 [강의자료 부록 1 - 넘파이](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/A01_%EB%84%98%ED%8C%8C%EC%9D%B4.pdf) 
 
+[강의자료 05 - 그리기 속도 개선](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/05_%EA%B7%B8%EB%A6%AC%EA%B8%B0%EC%9D%98%20%EC%86%8D%EB%8F%84%EB%A5%BC%20%EB%86%92%EC%9D%B4%EB%8A%94%20%EB%8F%84%EA%B5%AC.pdf)
+
 ### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
