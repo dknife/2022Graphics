@@ -151,3 +151,5 @@
 [1 메시 로더를 구현하기 위한 기초 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_01)
 
 [메시 데이터](https://github.com/dknife/opendata/tree/main/mesh)
+
+[2 메시 데이터를 읽고 그리는 기본적 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_02)
