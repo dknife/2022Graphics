@@ -152,4 +152,6 @@
 
 [메시 데이터](https://github.com/dknife/opendata/tree/main/mesh)
 
+[메시 데이터 더 구하기](https://people.sc.fsu.edu/~jburkardt/data/ply/ply.html)
+
 [2 메시 데이터를 읽고 그리는 기본적 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_02)
