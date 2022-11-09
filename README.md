@@ -148,4 +148,4 @@
 
 [강의자료 06 - 파일에 담긴 기하객체 읽고 그리기](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/06_%ED%8C%8C%EC%9D%BC%EC%97%90%20%EB%8B%B4%EA%B8%B4%20%EA%B8%B0%ED%95%98%EA%B0%9D%EC%B2%B4%20%EC%9D%BD%EA%B3%A0%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.pdf)
 
-
+[1 메시 로더를 구현하기 위한 기초 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_01)
