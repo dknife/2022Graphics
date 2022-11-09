@@ -159,3 +159,5 @@
 [3 메시 데이터를 읽고 면까지 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_03)
 
 [4 깊이 버퍼를 사용하여 뒷면 가리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_04)
+
+[5 타이머를 이용한 애니메이션(느린 메시 그리기 버전)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_05)
