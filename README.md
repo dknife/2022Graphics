@@ -178,3 +178,5 @@
 [4 주전자 배치 실패](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_04)
 
 [5 주전자 자유자재로 배치하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_05)
+
+[6 큐브 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_08)
