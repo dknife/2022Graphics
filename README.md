@@ -163,3 +163,8 @@
 [5 타이머를 이용한 애니메이션(느린 메시 그리기 버전)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_05)
 
 [6 타이머를 이용한 애니메이션(디스플레이 리스트를 이용한 빠른 버전)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec06_06)
+
+
+### 강의 7: 변환
+
+[강의자료 07 - 변환](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/07_%EB%B3%80%ED%99%98.pdf)
