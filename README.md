@@ -174,3 +174,5 @@
 [2 구의 위치 이동하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_02)
 
 [3 주전자 데이터 읽기 (y,z 좌표 바꾸기)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_03)
+
+[4 주전자 배치 실패](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_04)
