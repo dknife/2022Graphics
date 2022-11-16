@@ -171,3 +171,5 @@
 
 [1 간단한 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_01)
 
+[2 구의 위치 이동하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_02)
+
