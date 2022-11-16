@@ -168,3 +168,6 @@
 ### 강의 7: 변환
 
 [강의자료 07 - 변환](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/07_%EB%B3%80%ED%99%98.pdf)
+
+[1 간단한 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_01)
+
