@@ -180,3 +180,5 @@
 [5 주전자 자유자재로 배치하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_05)
 
 [6 큐브 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_08)
+
+[7 지역좌표계 움직임으로는 이해하기 힘든 크기 변환](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_09)
