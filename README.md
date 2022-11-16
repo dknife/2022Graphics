@@ -169,16 +169,18 @@
 
 [강의자료 07 - 변환](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/07_%EB%B3%80%ED%99%98.pdf)
 
-[1 간단한 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_01)
+[간단한 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_01)
 
-[2 구의 위치 이동하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_02)
+[구의 위치 이동하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_02)
 
-[3 주전자 데이터 읽기 (y,z 좌표 바꾸기)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_03)
+[주전자 데이터 읽기 (y,z 좌표 바꾸기)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_03)
 
-[4 주전자 배치 실패](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_04)
+[주전자 배치 실패](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_04)
 
-[5 주전자 자유자재로 배치하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_05)
+[주전자 자유자재로 배치하기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_05)
 
-[6 큐브 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_08)
+[큐브 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_08)
 
-[7 지역좌표계 움직임으로는 이해하기 힘든 크기 변환](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_09)
+[지역좌표계 움직임으로는 이해하기 힘든 크기 변환](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_09)
+
+[glPushMatrix-PopMatrix를 이용한 크기 변환 다루기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_10)
