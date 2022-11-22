@@ -184,3 +184,10 @@
 [지역좌표계 움직임으로는 이해하기 힘든 크기 변환](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_09)
 
 [glPushMatrix-PopMatrix를 이용한 크기 변환 다루기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec07_10)
+
+
+### 강의 8: 계층적 모델링
+
+[강의자료 08 - 계층적 모델링]()
+
+[로봇 팔]()
