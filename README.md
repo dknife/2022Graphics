@@ -208,3 +208,5 @@
 [태양계: 지구를 공전하는 달(지구 자전 영향 없이)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_8)
 
 [궤도 그리기 위한 원 그리기 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_aux1)
+
+[태양계: 지구, 달, 화성과 그들의 공전궤도](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_9)
