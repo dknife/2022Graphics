@@ -193,3 +193,5 @@
 [로봇: 몸통 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_1)
 
 [로봇: 팔 1 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_2)
+
+[로봇: 팔 2그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_3)
