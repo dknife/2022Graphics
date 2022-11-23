@@ -200,4 +200,4 @@
 
 [도전과제: 날개 달기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_5)
 
-[태양기: 임의의 크기를 가진 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_6)
+[태양계: 임의의 크기를 가진 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_6)
