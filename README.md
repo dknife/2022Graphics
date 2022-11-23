@@ -203,3 +203,5 @@
 [태양계: 임의의 크기를 가진 구 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_6)
 
 [태양계: 태양 주위를 도는 지구의 공전과 자전](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_7)
+
+[태양계: 지구를 공전하는 달(지구 자전 영향 없이)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_8)
