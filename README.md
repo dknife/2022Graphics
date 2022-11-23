@@ -190,4 +190,6 @@
 
 [강의자료 08 - 계층적 모델링](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/08_%EA%B3%84%EC%B8%B5%EC%A0%81%20%EB%AA%A8%EB%8D%B8%EB%A7%81.pdf)
 
-[로봇 팔](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_1)
+[로봇 팔 몸통 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_1)
+
+[로봇 팔 팔 1 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_2)
