@@ -44,7 +44,7 @@
 
 [강의자료 08 - 계층적 모델링](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/08_%EA%B3%84%EC%B8%B5%EC%A0%81%20%EB%AA%A8%EB%8D%B8%EB%A7%81.pdf)
 
-[강의자료 09 - 색상과 조명]()
+[강의자료 09 - 색상과 조명](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/09_%EC%83%89%EA%B3%BC%20%EC%A1%B0%EB%AA%85.pdf)
 
 ### 강의 0: 수업 오리엔테이션 
 
