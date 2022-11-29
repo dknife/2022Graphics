@@ -40,6 +40,12 @@
 
 [강의자료 06 - 파일에 담긴 기하객체 읽고 그리기](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/06_%ED%8C%8C%EC%9D%BC%EC%97%90%20%EB%8B%B4%EA%B8%B4%20%EA%B8%B0%ED%95%98%EA%B0%9D%EC%B2%B4%20%EC%9D%BD%EA%B3%A0%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.pdf)
 
+[강의자료 07 - 변환](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/07_%EB%B3%80%ED%99%98.pdf)
+
+[강의자료 08 - 계층적 모델링](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/08_%EA%B3%84%EC%B8%B5%EC%A0%81%20%EB%AA%A8%EB%8D%B8%EB%A7%81.pdf)
+
+[강의자료 09 - 색상과 조명]()
+
 ### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
