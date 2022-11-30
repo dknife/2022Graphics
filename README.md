@@ -220,8 +220,14 @@
 
 ### 강의 9: 색과 조명
 
+#### 색상 모델
+
 [강의자료 09 - 색과 조명](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/09_%EC%83%89%EA%B3%BC%20%EC%A1%B0%EB%AA%85.pdf)
 
-[색상 지정이 되지 않은 모델](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_1)
+[실습 1: 색상 지정이 되지 않은 모델](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_1)
 
-[정점별로 색상을 지정한 모델](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_2)
+[실습 2: 정점별로 색상을 지정한 모델](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_2)
+
+#### 조명 모델
+
+[실습 3: 조명](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_3)
