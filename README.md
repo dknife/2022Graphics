@@ -231,3 +231,5 @@
 #### 조명 모델
 
 [실습 3: 조명](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_3)
+
+[실습 4: 법선 처리가 되지 않은 메시 읽기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_4)
