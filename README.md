@@ -216,3 +216,10 @@
 [궤도 그리기 위한 원 그리기 코드](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_aux1)
 
 [태양계: 지구, 달, 화성과 그들의 공전궤도](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec08_9)
+
+
+### 강의 9: 색과 조명
+
+[강의자료 09 - 색과 조명](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/09_%EC%83%89%EA%B3%BC%20%EC%A1%B0%EB%AA%85.pdf)
+
+[색상 지정이 되지 않은 모델](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_1)
