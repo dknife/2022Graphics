@@ -46,6 +46,8 @@
 
 [강의자료 09 - 색상과 조명](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/09_%EC%83%89%EA%B3%BC%20%EC%A1%B0%EB%AA%85.pdf)
 
+[강의자료 10 - 정점별 법선 적용]()
+
 ### 강의 0: 수업 오리엔테이션 
 
 강의 소개 [강의노트 00 - Orientation](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/LN_00_Orientation.pdf)
@@ -235,3 +237,7 @@
 [실습 4: 법선 처리가 되지 않은 메시 읽기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_4)
 
 [실습 5: 조명 처리가 제대로 된 메시 읽기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec09_5)
+
+### 강의 10: 정점별 법선 적용
+
+[강의자료 10 - 정점별 법선 적용]()
