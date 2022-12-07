@@ -241,3 +241,5 @@
 ### 강의 10: 정점별 법선 적용
 
 [강의자료 10 - 정점별 법선 적용](https://github.com/dknife/2022Graphics/raw/main/LectureNotes/10_%EC%A0%95%EC%A0%90%EB%B3%84%20%EB%B2%95%EC%84%A0%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%A1%EB%A9%B4%20%ED%91%9C%ED%98%84.pdf)
+
+[실습 1: 면마다 법선 벡터를 저장한 메시 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_1)
