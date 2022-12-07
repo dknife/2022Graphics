@@ -246,3 +246,6 @@
 
 
 [실습 2: 정점마다 법선 벡터를 저장한 메시 그리기](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_2)
+
+
+[실습 3: 다수의 금송아지에 대한 방향광 적용](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_3)
