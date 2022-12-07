@@ -251,3 +251,6 @@
 [실습 3: 다수의 금송아지에 대한 방향광 적용](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_3)
 
 [실습 4: 방향광/점광원 제어(W-S 키), 광원 위치 제어 (A-D 키)](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_4)
+
+
+[실습 5: 집중광원 3개를 사용하는 예제](https://github.com/dknife/2022Graphics/wiki/2022Graphics_Code_Lec10_5)
